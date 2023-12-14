@@ -1,0 +1,29 @@
+body{
+  background-color: rgb(177, 224, 220);
+  margin-top: 2%;
+  text-align: center;
+}
+
+.tyype{
+  line-height: 40px;
+  margin: 20px;
+  border-radius: 7px;
+  box-shadow: 4px 6px black;
+}
+
+.click{
+  background-color: rgb(212, 132, 198);
+  line-height: 40px;
+  width: 100px;
+  color: rgb(255, 255, 255);
+  cursor: pointer;
+  border-radius: 16px;
+}
+
+.remove{
+  background-color: rgb(32, 47, 120);
+  color: aliceblue;
+  line-height: 40px;
+  border-radius: 16px;
+  cursor: pointer;
+}
